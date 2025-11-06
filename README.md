@@ -2,6 +2,8 @@
 
 This is a fork of Sonic 1 disassembly with Mega PCM 2 DAC driver pre-installed by vladikcomper. 
 
+You can find the original disassembly here: https://github.com/sonicretro/s1disasm/tree/ProjectSonic1TwoEight
+
 MD Debugger and Mega PCM 2 by vladikcomper.
 
 ProjectSonic1TwoEight by MarkeyJester.
