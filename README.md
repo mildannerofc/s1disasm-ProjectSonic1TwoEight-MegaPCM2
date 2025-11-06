@@ -8,6 +8,10 @@ You can see Mega PCM 2 in action on this recording from real hardware: https://w
 
 You can find the original disassembly here: https://github.com/sonicretro/s1disasm/tree/ProjectSonic1TwoEight
 
+ProjectSonic1TwoEight by MarkeyJester.
+
+MD Debugger and Mega PCM 2 by vladikcomper.
+
 ## Installation details
 
 Installation strictly follows the following guides:
