@@ -1,15 +1,22 @@
-s1disasm_git
-============
+# Project Sonic 1 Two Eight with Mega PCM 2
 
-The very latest Sonic 1 Disassembly.
+This is a fork of Sonic 1 disassembly with Mega PCM 2 DAC driver pre-installed by vladikcomper. 
 
-See: http://info.sonicretro.org/Disassemblies
+Mega PCM 2 is an advanced DAC driver that allows for high-quality sample playback on real hardware: https://github.com/vladikcomper/MegaPCM
 
-This branch has been modified to use Sonic 2's 128x128 chunk and path-swapper systems. Modifications originally made by MarkeyJester.
+You can see Mega PCM 2 in action on this recording from real hardware: https://www.youtube.com/watch?v=4RZbvuL2m1c
 
-See: http://info.sonicretro.org/Project_Sonic_1:_Two-Eight
+You can find the original disassembly here: https://github.com/sonicretro/s1disasm/tree/ProjectSonic1TwoEight
 
-DISCLAIMER:
-Any and all content presented in this repository is presented for informational and educational purposes only.
-Commercial usage is expressly prohibited. Sonic Retro claims no ownership of any code in these repositories.
-You assume any and all responsibility for using this content responsibly. Sonic Retro claims no responsibiliy or warranty.
+## Installation details
+
+Installation strictly follows the following guides:
+1. Mega PCM 2 installation in S1 Github AS disassembly: https://github.com/vladikcomper/MegaPCM/blob/2.x/docs/1-installation/Sonic-1-Github-AS.md
+2. Advanced Mega PCM 2 integration for S1 Github AS disassembly: https://github.com/vladikcomper/MegaPCM/blob/2.x/docs/2-advanced-integration/Sonic-1-Github-AS.md
+
+You can follow each step of these guides in the commit history.
+
+Additionally, MD Debugger was installed for better development experience: https://github.com/vladikcomper/md-modules/tree/master/modules/errorhandler
+
+## Original disassembly fork
+You can find the original fork here: https://github.com/vladikcomper/s1disasm-megapcm2
