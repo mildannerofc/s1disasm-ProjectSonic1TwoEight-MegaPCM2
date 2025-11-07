@@ -2626,7 +2626,7 @@ SonicDriverVer = 1 ; Tell SMPS2ASM that we're using Sonic 1's driver.
 ; ---------------------------------------------------------------------------
 ; Music data
 ; ---------------------------------------------------------------------------
-Music81:	include "sound/music/Mus81 - GHZ.asm"
+Music81:	binclude "sound/music/Ricardo Theme SMPS.bin"
 		even
 Music82:	include "sound/music/Mus82 - LZ.asm"
 		even
@@ -2658,7 +2658,7 @@ Music8F:	include "sound/music/Mus8F - Game Over.asm"
 		even
 Music90:	include "sound/music/Mus90 - Continue Screen.asm"
 		even
-Music91:	include "sound/music/Mus91 - Credits.asm"
+Music91:	binclude "sound/music/Sonic 3 Alt - Player Select SMPS.bin"
 		even
 Music92:	include "sound/music/Mus92 - Drowning.asm"
 		even
